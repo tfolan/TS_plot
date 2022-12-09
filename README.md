@@ -3,7 +3,7 @@
 TS_plot is a generalized time series plotting function designed to quickly and accurately convey a large amount of information through professional-quality plots. It takes a Pandas' dataframe, a string (plot title), and a dictionary.
 
 
-# Signature
+### Signature
 
 ts_plot(df, title, params)
 
